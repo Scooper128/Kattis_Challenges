@@ -13,3 +13,17 @@ D:\Repos\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net
 D:\Repos\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.pdb
 D:\Repos\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.genruntimeconfig.cache
 D:\Repos\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\ref\More Multiplication.dll
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\bin\Debug\net7.0\More Multiplication.exe
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\bin\Debug\net7.0\More Multiplication.deps.json
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\bin\Debug\net7.0\More Multiplication.runtimeconfig.json
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\bin\Debug\net7.0\More Multiplication.dll
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\bin\Debug\net7.0\More Multiplication.pdb
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.AssemblyInfoInputs.cache
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.AssemblyInfo.cs
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.csproj.CoreCompileInputs.cache
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.dll
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\refint\More Multiplication.dll
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.pdb
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\More Multiplication.genruntimeconfig.cache
+C:\Stuff\repo\Kattis_Challenges\More Multiplication\More Multiplication\obj\Debug\net7.0\ref\More Multiplication.dll

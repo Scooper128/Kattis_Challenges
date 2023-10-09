@@ -6,18 +6,22 @@
         {
             String num1=Console.ReadLine();
             String num2=Console.ReadLine();
-            var num1List = num1.ToArray();
-            var num2List = num2.ToArray();
-            int[,] grid;
-            int[] gridTemp;
-            foreach(int app in num2List) {   
+            int[] num1Ar = num1.Split(' ').Select(int.Parse).ToArray();
+            int[] num2Ar = num2.Split(' ').Select(int.Parse).ToArray();
+            /*List<List<int>> grid = new List<List<int>>();
+            List<int> gridTemp = new List<int>();
+            foreach (int app in num2List) {   
                 foreach (int num in num1List)
                 {
-                    gridTemp.Append(num * app);
+                    gridTemp.Add(num * app);
+                    Console.WriteLine(gridTemp);
                 }
+                grid.Add(gridTemp);
+                Console.WriteLine(grid);
             }
-                                                            
-            
+            Console.WriteLine(grid);
+             */
+
         }
     }
 }
