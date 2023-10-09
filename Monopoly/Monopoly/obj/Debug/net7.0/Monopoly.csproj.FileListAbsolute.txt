@@ -1,0 +1,15 @@
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\bin\Debug\net7.0\Monopoly.exe
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\bin\Debug\net7.0\Monopoly.deps.json
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\bin\Debug\net7.0\Monopoly.runtimeconfig.json
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\bin\Debug\net7.0\Monopoly.dll
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\bin\Debug\net7.0\Monopoly.pdb
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.csproj.AssemblyReference.cache
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.AssemblyInfoInputs.cache
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.AssemblyInfo.cs
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.csproj.CoreCompileInputs.cache
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.dll
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\refint\Monopoly.dll
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.pdb
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\Monopoly.genruntimeconfig.cache
+D:\Repos\Kattis_Challenges\Monopoly\Monopoly\obj\Debug\net7.0\ref\Monopoly.dll
