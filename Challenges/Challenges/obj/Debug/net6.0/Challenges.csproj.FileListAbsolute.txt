@@ -1,0 +1,14 @@
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\bin\Debug\net6.0\Challenges.exe
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\bin\Debug\net6.0\Challenges.deps.json
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\bin\Debug\net6.0\Challenges.runtimeconfig.json
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\bin\Debug\net6.0\Challenges.dll
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\bin\Debug\net6.0\Challenges.pdb
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.AssemblyInfoInputs.cache
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.AssemblyInfo.cs
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.csproj.CoreCompileInputs.cache
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.dll
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\refint\Challenges.dll
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.pdb
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\Challenges.genruntimeconfig.cache
+C:\Stuff\repo\Kattis_Challenges\Challenges\Challenges\obj\Debug\net6.0\ref\Challenges.dll
